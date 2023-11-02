@@ -73,14 +73,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUKTJIJX
 
-[GeneratedDocument1]
-DocumentPath=TB-520-0-0.LOG
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Asis OT Library
 ParameterCount=0
 ConstraintFileCount=0
+
+[Configuration2]
+Name=Asis OT Library
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+CurrentRevision=
+Variant=[No Variations]
+GenerateBOM=0
+OutputJobsCount=0
+
+[Configuration3]
+Name=Asis OT Library
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+CurrentRevision=
+Variant=[No Variations]
+GenerateBOM=0
+OutputJobsCount=0
+
+[Configuration4]
+Name=Asis OT Library
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+CurrentRevision=
+Variant=[No Variations]
+GenerateBOM=0
+OutputJobsCount=0
 
 [OutputGroup1]
 Name=Netlist Outputs
