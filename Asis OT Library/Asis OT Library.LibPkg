@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Outputs
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -92,6 +92,12 @@ ConstraintFileCount=0
 Name=Asis OT Library
 ParameterCount=0
 ConstraintFileCount=0
+
+[Generic_EDE]
+OutputDir=Outputs
+
+[Generic_IntLibOptions]
+OldFormat=False
 
 [OutputGroup1]
 Name=Netlist Outputs
