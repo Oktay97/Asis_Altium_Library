@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=Outputs
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -73,44 +73,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUKTJIJX
 
-[Document3]
-DocumentPath=AltiumV15.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IHJBOLBR
-
-[Document4]
-DocumentPath=AltiumV15.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XVPUBODD
-
-[GeneratedDocument1]
-DocumentPath=2024-03-18_06-59-40.LOG
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Asis OT Library
 ParameterCount=0
@@ -131,11 +93,11 @@ Name=Asis OT Library
 ParameterCount=0
 ConstraintFileCount=0
 
-[Generic_EDE]
-OutputDir=Outputs
-
 [Generic_IntLibOptions]
 OldFormat=False
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -151,7 +113,7 @@ OutputDefault1=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP LaserJet Pro MFP M127fn
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 
 [OutputGroup3]
